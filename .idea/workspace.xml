@@ -4,18 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1cc068f-f5f5-4675-87aa-d1814344dc12" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/taskhome/taskhome2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/taskhome/taskhome2/task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/taskhome/taskhome3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/taskhome/taskhome3/Rainbow.java" afterDir="false" />
+    <list default="true" id="d1cc068f-f5f5-4675-87aa-d1814344dc12" name="Changes" comment="1">
+      <change afterPath="$PROJECT_DIR$/src/taskhome/taskhome4/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/taskhome/taskhome4/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +43,20 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.taskhome.taskhome3.Main">
+  <component name="RunManager" selected="Application.taskhome.taskhome4.Main">
+    <configuration name="Cat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="taskhome.taskhome4.Cat" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="taskhome.taskhome4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="taskhome.taskhome2.Main" />
       <module name="java" />
@@ -78,8 +83,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="taskhome.taskhome4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="taskhome.taskhome4.Main" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="taskhome.taskhome4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.taskhome.taskhome4.Main" />
+        <item itemvalue="Application.Cat" />
         <item itemvalue="Application.taskhome.taskhome3.Main" />
         <item itemvalue="Application.Main" />
       </list>
@@ -94,6 +114,14 @@
       <option name="presentableId" value="Default" />
       <updated>1666638912764</updated>
     </task>
+    <task id="LOCAL-00001" summary="1">
+      <created>1666650452095</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666650452095</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -109,5 +137,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
 </project>
